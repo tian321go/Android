@@ -1,11 +1,10 @@
-# Android 资源库
-
+更友好的阅读体验点击 [Android知识库](https://www.zybuluo.com/Arison/note/751745)
 
 ## 1.基本控件
 
 ### 1.1.TextView
 
-- [ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)
+- [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView)
 - [HtmlImage](https://github.com/babylikebird/htmlImage)
 - [android-autofittextview](https://github.com/grantland/android-autofittextview)
 - [html-textview](https://github.com/SufficientlySecure/html-textview)
@@ -18,7 +17,6 @@
 - [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
 - [RichText](https://github.com/zzhoujay/RichText)
 - [MixtureTextView](https://github.com/hongyangAndroid/MixtureTextView)
-
 
 ### 1.2.EditText
 
@@ -86,7 +84,8 @@
 - [ListView-DragAndDrop](https://github.com/willnewii/ListView-DragAndDrop)
 - [MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader)
 - [AppUpdater](https://github.com/javiersantos/AppUpdater)
-
+- [Android UI开发第十六篇——分享一个popuwindow实例](	
+http://blog.csdn.net/xyz_lmn/article/details/6921097)
 
 
 
@@ -118,7 +117,7 @@
 - [LoadingView](https://github.com/ldoublem/LoadingView)
 - [LoadingAndRetryManager](https://github.com/hongyangAndroid/LoadingAndRetryManager)
 - [ProgressRoundButton](https://github.com/cctanfujun/ProgressRoundButton)(2016-09-29)
-* [ProgressLayout](https://github.com/iammert/ProgressLayout)\|一款新颖的进度条布局
+
 
 
 ### 1.7.CheckBox
@@ -144,18 +143,10 @@
 - [SuperToasts](https://github.com/JohnPersano/SuperToasts)
 - [Android-AppMsg](https://github.com/johnkil/Android-AppMsg)
 - [Crouton](https://github.com/keyboardsurfer/Crouton)
-- [Alerter](https://github.com/Tapadoo/Alerter)\|Android Dropdown 风格的弹窗，这个库旨在克服Toasts和Snackbars的限制，同时降低布局的复杂性。An Android Alerting Library
-* [undoBar](https://github.com/soarcn/UndoBar)\(人性化的设计，方便用户操作\)
-* [Toasty](https://github.com/GrenderG/Toasty)
-- [Sneaker](https://github.com/Hamadakram/Sneaker)|效果和Alerter类似
-- [RxTools](https://github.com/vondear/RxTools)
-- [ExToast](https://github.com/YuanKJ-/ExToast)
 
 ### 1.10.Toobar
 
 - [AndroidMaterialDesignToolba](https://github.com/tekinarslan/AndroidMaterialDesignToolbar)
-- [SystemBarUsing](https://github.com/chenykKits/SystemBarUsing)\|Toolbar与Translucent System Bar使用及封装
-* [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar)
 
 
 ## 2.列表控件
@@ -194,8 +185,6 @@
 
 - [SlidingLayout](http://p.codekk.com/detail/Android/HomHomLin/SlidingLayout)
 - [WebViewStudy][1]
-- [NestedScrollWebView](https://github.com/rhlff/NestedScrollWebView)
-- [safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge)
 
 ## 3 布局控件
 
@@ -210,56 +199,24 @@
 
 ### 3.2.Layout
 
-- [`SwipeBackLayout`][2] 滑动返回
-- [`Dragger`][3] 拖拽界面
-- [`DiagonalLayout`][4] material design风格
-- [`flexbox-layout`][5] Flexbox for Android
-- [`ChipsLayoutManager`][6] tag布局
-- [`vlayout`][7] RecyclerView分组布局 来自阿里
-- [`ResideLayout`][8] 老风格的侧滑布局
-- [`DraggablePanel`][9]
-- [`Slidr`][10]
-- [`InboxLayout`][11]
-- [`MarqueeLayoutLibrary`][12]跑马灯
-- [`SpaceTabLayout`][13]
-- [`ZLayoutManager`][14]
-- [`CoordinatorTabLayout`][15]
-- [`Dachshund-Tab-Layout`][16]
-- [`SmartTabLayout`][17]
-- [`JKeyboardPanelSwitch`][18]
-- [`BlurKit-Android`][19]
-- [`StickyGridHeaders`][20]
 - [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
-- [`ExpandableLayout`][21]
+- [ExpandableLayout](https://github.com/traex/ExpandableLayout)
 - [AndroidViewHover](https://github.com/daimajia/AndroidViewHover)
-- [`smooth-app-bar-layout`][22]
-- [`android-pile-layout`][23]
-- [`AdaptiveTableLayout`][24] 表格布局
-- [`greedo-layout-for-android`][25]
-- [`ExpandableLayout`][26]
-- [`SlidingUpPanelLayout`][27]
-- [`ScrollableLayout`][28]
+- [InboxLayout](https://github.com/zhaozhentao/InboxLayout)
 - [瀑布流](https://github.com/dodola/PinterestLikeAdapterView)
 - [BGASwipeItemLayout-Android](https://github.com/bingoogolapple/BGASwipeItemLayout-Android)
 - [android-uitableview](https://github.com/thiagolocatelli/android-uitableview)
 - [android-viewbadger](https://github.com/jgilfelt/android-viewbadger)
 - [微信布局](https://github.com/motianhuo/wechat)
-* [ AndroidSlidingUpPanel](http://www.oschina.net/p/androidslidinguppanel)\(百度地图，高德地图上滑面板控件\)\|添加更多描点，面板上下滑动随意停在指定位置 Android 上拉面板
-* [SlideLayout](https://github.com/yanbober/SlideLayout)\|侧滑布局
-* [android-youtube-drag-layout](https://github.com/wuyexiong/android-youtube-drag-layout)
-* [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)\(侧滑布局\)
-* [excelPanel](https://github.com/zhouchaoyuan/excelPanel)\|表格课程布局
+
 
 
 ### 3.3.刷新控件
 
-- [RecyclerRefreshLayout][29]
-- [android-PullRefreshLayout][30]
-- [SuperSwipeRefreshLayout](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout) SwipeRefreshLayout的二次开发
-- [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout) 重点推荐，刷新控件总结大全
-- [Phoenix][31]
+- [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout)(重点推荐，刷新控件总结大全)
 - [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)(名库-非常强大的刷新控件)
 - [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh/tree/master/library)(名库-微博使用的下拉刷新)
+- [SuperSwipeRefreshLayout(600+)](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout)(SwipeRefreshLayout的二次---开发自定义SwipeRefreshLayout头部样式)
 - [SwipeRefreshLayoutDemo](https://github.com/stormzhang/SwipeRefreshLayoutDemo)(SwipeRefreshLayout demo (Google官方下拉刷新组件))
 - [PullToRefreshAndLoad](https://github.com/jingchenUSTC/PullToRefreshAndLoad)
 - [XListView](https://github.com/Maxwin-z/XListView-Android/find/master)(不推荐使用)
@@ -267,8 +224,6 @@
 - [CommonPullToRefresh:heart:](https://github.com/Chanven/CommonPullToRefresh)(在android-Ultra-Pull-To-Refresh的基础上增加了加载更多的支持)
 - [CBPullRefreshListView](https://github.com/yilylong/CBPullRefreshListView)(下拉刷新+侧滑菜单+listview+自定义刷新样式)
 - [Android-PullToRefresh-SwipeMenuListView-Sample](https://github.com/licaomeng/Android-PullToRefresh-SwipeMenuListView-Sample)(下拉刷新+侧滑菜单+listview)
-- [Android-Swipe-StickyHeader-PullToRefresh-Indexable-ListView][32]
-- [Android-PullToRefresh-Extention][33]
 
 ### 3.4.PopupWindow
 
@@ -295,16 +250,14 @@
 ### 4.3.WheelView
 
 
-- [WheelView](https://github.com/wangjiegulu/WheelView)
-- [WheelPicker](https://github.com/AigeStudio/WheelPicker)
-- [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker)
-- [android-spinnerwheel](https://github.com/ai212983/android-spinnerwheel)
-- [HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView)
-- [WheelView-Android](https://github.com/lantouzi/WheelView-Android)
-- [CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout)
-- [Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView)-saiwu-bigkoo
-* [Android-PickerView](https://github.com/Bigkoo/Android-PickerView)-Bigkoo
-* [androidWheelView](https://github.com/weidongjian/androidWheelView/)
+- [WheelView](https://github.com/wangjiegulu/WheelView)(Android滚动选择控件)
+- [WheelPicker](https://github.com/AigeStudio/WheelPicker)(具有弯曲和透视效果的wheel)
+- [时间选址器，菜单选择器，时分选择器](https://github.com/gzu-liyujiang/AndroidPicker) :heart:安卓选择器类库，包括日期时间选择器、单项选择器、二三级联动选择器、地址选择器、颜色选择器、文件目录选择器、数字选择器等，可自定义顶部及底部界面，可自定义窗口动画。Picker for android, include date&time/option/number/address/city/color/file&directory.
+- [android-spinnerwheel](https://github.com/ai212983/android-spinnerwheel)(水平和垂直wheelview)
+- [HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView)(水平wheelview)
+- [WheelView-Android](https://github.com/lantouzi/WheelView-Android)(水平wheelview)
+- [CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout)(wheel圆形菜单:heart:)
+- [Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView)
 
 ### 4.4.对话框
 
@@ -322,8 +275,7 @@
 
 ###  4.5.树
 
-- [AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView)
-- [`RecyclerTreeView`][34]
+- [AndroidTreeView[多级树]](https://github.com/bmelnychuk/AndroidTreeView)
 
 ### 4.6.标签
 
@@ -354,7 +306,6 @@
 - [SearchView](https://github.com/lapism/SearchView)
 - [Android-Material-SearchView[推荐]](https://github.com/EugeneHoran/Android-Material-SearchView)
 - [floatingsearchview](https://github.com/arimorty/floatingsearchview)
-- [Material](https://github.com/MiguelCatalan/MaterialSearchView)
 
 ### 4.10.菜单
 
@@ -405,7 +356,7 @@
 - [android-times-square](https://github.com/square/android-times-square)(Standalone Android widget for picking a single date from a calendar view.)(**2016-9-27**)
 - [Android-Week-View](https://github.com/alamkanak/Android-Week-View)(Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.)(**2016-9-27**)
 - [android-calendar-view](https://github.com/myjoybar/android-calendar-view)(显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库。Easy to use, powerful, easy to expand the android calendar view library.)(**2016-09-29**)
-* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
+
 
 ### 4.13.Shadow
 
@@ -520,6 +471,54 @@ scrollView滑动到底部的时候，再行向上拖动时，添加了一些阻�
 - [android-resource-remover](https://github.com/KeepSafe/android-resource-remover)(python 脚本工具 ：根据 lint 的提示删除项目中无用的资源，【减少包的大小】)(2010-10-08)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 6.3.文件
 
 - [aFileChooser](https://github.com/iPaulPro/aFileChooser)
@@ -554,18 +553,8 @@ scrollView滑动到底部的时候，再行向上拖动时，添加了一些阻�
 
 ### 6.7.权限
 
-- [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher)
-- [RxPermissions](https://github.com/tbruyelle/RxPermissions)
-- [easypermissions](https://github.com/googlesamples/easypermissions)
-- [Dexter](https://github.com/Karumi/Dexter)
-- [AndPermission](https://github.com/yanzhenjie/AndPermission)
-- [PermissionHelper](https://github.com/k0shk0sh/PermissionHelper)
-- [PermissionGen](https://github.com/lovedise/PermissionGen)
-- [MPermissions](https://github.com/hongyangAndroid/MPermissions)
-- [HiPermission](https://github.com/yewei02538/HiPermission)
-- [TedPermission](https://github.com/ParkSangGwon/TedPermission)
-- [AndroidAcp](https://github.com/mylhyl/AndroidAcp)
-- [Permissify](https://github.com/holidaycheck/Permissify)
+- [AndroidAcp(Android 6.0权限简化)](https://github.com/mylhyl/AndroidAcp)
+- [Permissify](https://github.com/holidaycheck/Permissify)(Simplifying Android Permissions)(2016-09-29)
 
 ### 6.8.安全
 
@@ -621,22 +610,8 @@ scrollView滑动到底部的时候，再行向上拖动时，添加了一些阻�
 
 - [ESSocialSDK](https://github.com/elbbbird/ESSocialSDK)(社交登录授权、分享SDK，支持微信、微博和QQ)
 
-### 6.18.相册
 
-- [Album](https://github.com/yanzhenjie/Album)
 
-### 6.19.富文本
-
-* [icarus-android](https://github.com/mr5/icarus-android)
-
-### 6.20.红点
-
-- [ShortcutBadger][35] 桌面红点
-- [ShortcutHelper][36]
-- [android-badge][37]
-- [DraggableFlagView][38]
-- [`BadgeView`][39]-qstumn
-- [`BadgeView`][40] AlexLiuSheng
 
 ## 7. 网络
 
@@ -679,17 +654,11 @@ scrollView滑动到底部的时候，再行向上拖动时，添加了一些阻�
 
 ### 8.3.源码分析
 
-- [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
+- [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)(android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！)
 
 ### 8.4.面试
 
 - [Android-Interview](https://github.com/zzguo28/Android-Interview)
-
-### 8.5.生命周期
-
-- [RxLifecycle][41]
-- [android-lifecycle][42]
-- [RxLifecycle-zhihu][43]
 
 ## 9.源码
 
@@ -788,23 +757,9 @@ scrollView滑动到底部的时候，再行向上拖动时，添加了一些阻�
 -  [vux](https://vux.li/#!/)(Mobile web UI Components based on Vue and WeUI. Be Cool with Vue & WeUI. https://vux.li/)(2016-09-30)
 -  [SUI-Mobile](http://m.sui.taobao.org/components/#layout)(SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美 http://m.sui.taobao.org/components/)(2016-09-30)
 
-### 10.3.Awesome
 
-- [awesome-android][44]
-- [awesome-android-ui][45]
-- [awesome-machine-learning][46]
-- [github-cheat-sheet][47]
-- [awesome-interview-questions][48]
-- [Awesome-RxJava][49]
-- [awesome-android-libraries][50]
-- [awesome-adb][51]
-- [Awesome_APIs][52]
-- [awesome-android-performance][53]
-- [android-security-awesome][54]
-- [awesome-android-tips][55]
-- [material-design-data][56] 关于 Material Design 的一切资料都在这里
-- [awesome-github-android-ui][57]
-- [awesome-github][58]
+
+
 
 
 
@@ -817,64 +772,6 @@ scrollView滑动到底部的时候，再行向上拖动时，添加了一些阻�
 - github：[https://github.com/Arisono](https://github.com/Arisono)
 - 微信公众号：Android 实战开发
 - QQ群：151909524
-- 如果你有好的资源希望分享，请添加issue
 
 
   [1]: https://github.com/youlookwhat/WebViewStudy
-  [2]: https://github.com/ikew0ng/SwipeBackLayout
-  [3]: https://github.com/ppamorim/Dragger
-  [4]: https://github.com/florent37/DiagonalLayout
-  [5]: https://github.com/google/flexbox-layout
-  [6]: https://github.com/BelooS/ChipsLayoutManager
-  [7]: https://github.com/alibaba/vlayout
-  [8]: https://github.com/kyze8439690/ResideLayout
-  [9]: https://github.com/pedrovgs/DraggablePanel
-  [10]: https://github.com/r0adkll/Slidr
-  [11]: https://github.com/zhaozhentao/InboxLayout
-  [12]: https://github.com/oubowu/MarqueeLayoutLibrary
-  [13]: https://github.com/thelong1EU/SpaceTabLayout
-  [14]: https://github.com/mcxtzhang/ZLayoutManager
-  [15]: https://github.com/hugeterry/CoordinatorTabLayout
-  [16]: https://github.com/Andy671/Dachshund-Tab-Layout
-  [17]: https://github.com/ogaclejapan/SmartTabLayout
-  [18]: https://github.com/Jacksgong/JKeyboardPanelSwitch
-  [19]: https://github.com/gogopop/BlurKit-Android
-  [20]: https://github.com/TonicArtos/StickyGridHeaders
-  [21]: https://github.com/traex/ExpandableLayout
-  [22]: https://github.com/henrytao-me/smooth-app-bar-layout/
-  [23]: https://github.com/xmuSistone/android-pile-layout
-  [24]: https://github.com/Cleveroad/AdaptiveTableLayout
-  [25]: https://github.com/500px/greedo-layout-for-android
-  [26]: https://github.com/AAkira/ExpandableLayout
-  [27]: https://github.com/woxingxiao/SlidingUpPanelLayout
-  [28]: https://github.com/w446108264/ScrollableLayout
-  [29]: https://github.com/dinuscxj/RecyclerRefreshLayout
-  [30]: https://github.com/baoyongzhang/android-PullRefreshLayout
-  [31]: https://github.com/Yalantis/
-  [32]: https://github.com/rizafu/Android-Swipe-StickyHeader-PullToRefresh-Indexable-ListView
-  [33]: https://github.com/LiuJQ/Android-PullToRefresh-Extention
-  [34]: https://github.com/TellH/RecyclerTreeView/
-  [35]: https://github.com/leolin310148/ShortcutBadger
-  [36]: https://github.com/xuyisheng/ShortcutHelper
-  [37]: https://github.com/ekinlyw/android-badge
-  [38]: https://github.com/wangjiegulu/
-  [39]: https://github.com/qstumn/BadgeView
-  [40]: https://github.com/AlexLiuSheng/BadgeView
-  [41]: https://github.com/trello/RxLifecycle
-  [42]: https://github.com/xxv/android-lifecycle
-  [43]: https://github.com/zhihu/RxLifecycle
-  [44]: https://github.com/JStumpp/awesome-android
-  [45]: https://github.com/wasabeef/awesome-android-ui
-  [46]: https://github.com/josephmisiti/awesome-machine-learning
-  [47]: https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md
-  [48]: https://github.com/MaximAbramchuck/awesome-interview-questions
-  [49]: https://github.com/lzyzsd/Awesome-RxJava
-  [50]: https://github.com/wasabeef/awesome-android-libraries
-  [51]: https://github.com/mzlogin/awesome-adb
-  [52]: https://github.com/TonnyL/Awesome_APIs/blob/master/Chinese.md
-  [53]: https://github.com/Juude/awesome-android-performance
-  [54]: https://github.com/ashishb/android-security-awesome
-  [55]: https://github.com/jiang111/awesome-android-tips
-  [56]: https://github.com/Luosunce/material-design-data
-  [57]: https://github.com/opendigg/awesome-github-android-ui
-  [58]: https://github.com/AntBranch/awesome-github
